@@ -10,3 +10,8 @@
 ### Packages:
 
 `pip3 install plotly_express`
+
+### Credits
+
++ [Plotly Documentation](https://www.plotly.express/plotly_express/)
++ [Recreating Gapminder Animation in 2 lines of Python with Plotly Express](https://github.com/amrrs/blogpost_codes/blob/master/gapminder_animation_plotly_express.ipynb)
