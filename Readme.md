@@ -11,6 +11,13 @@
 
 `pip3 install plotly_express`
 
+### Presentation
+
+[HTML Presentation](https://amrrs.github.io/Interactive-Viz-Plotly-Express/presentation.html)
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/amrrs/Interactive-Viz-Plotly-Express/blob/master/Interactive%20Visualization%20in%20Python.ipynb)
+
+
 ### Credits
 
 + [Plotly Documentation](https://www.plotly.express/plotly_express/)
