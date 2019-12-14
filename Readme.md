@@ -2,7 +2,7 @@
 
 ### Use it with Binder (without any installation)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amrrs/Interactive-Viz-Plotly-Express/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amrrs/Interactive-Viz-Plotly-Express/master?filepath=Interactive%2520Visualization%2520in%2520Python.ipynb)
 
 ### How to use:
 
