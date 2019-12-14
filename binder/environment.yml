@@ -7,6 +7,6 @@ dependencies:
   - pandas
   - bokeh
   - rise
-  - plotly.express
   - pip:
+    - plotly.express
     - jupyter-contrib-nbextensions
