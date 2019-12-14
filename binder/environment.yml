@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
+  - plotly.express
+  - pip:
+    - jupyter-contrib-nbextensions

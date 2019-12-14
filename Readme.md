@@ -1,5 +1,9 @@
 # Interactive Visualization with Ploty Express
 
+### Use it with Binder (without any installation)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amrrs/Interactive-Viz-Plotly-Express/master)
+
 ### How to use:
 
 * Download this repo
