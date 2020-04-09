@@ -19,7 +19,7 @@
 
 [HTML Presentation](https://amrrs.github.io/Interactive-Viz-Plotly-Express/presentation.html)
 
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/amrrs/Interactive-Viz-Plotly-Express/blob/master/Interactive%20Visualization%20in%20Python.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/amrrs/Interactive-Viz-Plotly-Express/blob/master/Interactive_Visualization_in_Python.ipynb.ipynb)
 
 
 ### Credits
