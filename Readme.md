@@ -1,4 +1,4 @@
-# Interactive Visualization with Ploty Express
+# Interactive Visualization with Plotly Express
 
 ### Use it with Binder (without any installation)
 
