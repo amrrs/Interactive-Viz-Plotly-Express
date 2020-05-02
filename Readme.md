@@ -8,7 +8,7 @@
 
 * Download this repo
 * Make sure you've `jupyter notebook` install
-* install `plotly_express`
+* install `plotly.express`
 * open this `Interactive Visualization in Python.ipynb` in your Jupyter Notebook
 
 ### Packages:
