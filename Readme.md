@@ -14,6 +14,8 @@
 ### Packages:
 
 `pip3 install plotly.express`
+ or 
+`pip install plotly.express`
 
 ### Presentation
 
