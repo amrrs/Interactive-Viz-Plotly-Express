@@ -27,4 +27,6 @@
 ### Credits
 
 + [Plotly Express Documentation](https://www.plotly.express/plotly_express/)
++ [Intro to Plotly Express - Complex Interactive Charts with One-Line of Python Code
+](https://youtu.be/QdqFZMQVCw4)
 + [Recreating Gapminder Animation in 2 lines of Python with Plotly Express](https://github.com/amrrs/blogpost_codes/blob/master/gapminder_animation_plotly_express.ipynb)
